@@ -1,31 +1,31 @@
-# 🕒 Digital Clock Using Python (Tkinter)
+# 👨‍💼 Employee Management System (Python)
 
-A real-time digital clock GUI application built with Python and Tkinter that displays time and date dynamically.
+A console-based Employee Management System built using Python that allows users to add, view, search, update, and delete employee records efficiently using object-oriented programming and tabular data display.
 
 ---
 
 ## 📌 Features
 
-- Live hour, minute, and second display  
-- AM/PM format  
-- Shows date, month, year, and day  
-- Auto refresh every 200 milliseconds  
-- Simple and colorful interface  
+- Add new employees  
+- View all employee records in table format  
+- Search employees by ID  
+- Update employee details  
+- Delete employee records  
+- User-friendly command-line menu system  
 
 ---
 
 ## 🛠 Technologies Used
 
 - Python  
-- Tkinter  
-- datetime module  
+- PrettyTable library  
+- Object-Oriented Programming (OOP)
 
 ---
 
-## ▶ How to Run
+## 📦 Installation
 
-1. Install Python (if not installed)  
-2. Download or clone the repository  
+Install the required library:
 
 ```bash
-git clone https://github.com/yourusername/digital-clock.git
+pip install prettytable
