@@ -38,4 +38,3 @@ A graphical digital clock application built using Python's Tkinter library that 
 
 ```bash
 git clone https://github.com/yourusername/digital-clock-tkinter.git
-
