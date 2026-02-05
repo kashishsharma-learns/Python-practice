@@ -27,7 +27,7 @@ A graphical digital clock application built using Python's Tkinter library that 
 
 ## 📸 Preview
 
-*(You can add a screenshot of the clock here later)*
+![Digital Clock Preview](screenshot.png)
 
 ---
 
